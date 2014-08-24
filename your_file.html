@@ -1,0 +1,37 @@
+<!-- CanRunAds Example! -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script type="text/javascript" src="/ads.js"></script>
+    <style type="text/css">
+      #yourContent, #yourAds {
+        padding: 20px;
+        margin: auto auto;
+        text-align: center;
+        border: 1px solid #DDDDDD;
+        margin: 20px;
+      }
+      .alert {
+        border: 1px solid #FF0000;
+        color: #FF0000;
+        padding: 10px;
+        margin: 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="exampleContent">
+      <div id="yourContent">This is awesome content which the client should have their adblock disabled to see!</div>
+      <div id="yourAds">This is an ad!</div>
+    </div>
+    <!-- Make your Ad checks now.
+    <script type="text/javascript">
+      if(CanRunAds) {
+        // Perform your actions here.
+        $('#yourContent').html("<div class="alert">You have an adblocker! We work hard on this site and our ads help keep us afloat and funded. Please disable your adblocker to see our website in full form.</div>");
+        $('#yourAds').hide();
+      }
+    </script>
+  </body>
+</html>
