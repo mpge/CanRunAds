@@ -1,4 +1,4 @@
-#-> CanRunAds <-
+# CanRunAds
 
 Description: CanRunAds is a simple repository/script to display a quick and easy method of preventing ad blockers. The simple script allows the webmaster to perform different functions and actions on their website depending on if the user has an adblocker or not.
 
@@ -15,4 +15,4 @@ You can view the your_file.html for an example of implementation.
 
 ## License
 
-_The license for this project is [MIT](License.MD)_
+_The license for this project is [MIT](LICENSE.MD)_
