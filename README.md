@@ -15,4 +15,4 @@ You can view the your_file.html for an example of implementation.
 
 ## License
 
-_The license for this project is [MIT](LICENSE.MD)_
+_The license for this project is [MIT](LICENSE.md)_
