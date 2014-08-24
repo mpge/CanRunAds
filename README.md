@@ -1,6 +1,6 @@
 # _CanRunAds_
 
-_Description: CanRunAds is a simple repository/script to display a quick and easy method of preventing ad blockers. The simple script allows the webmaster to perform different functions and actions on their website depending on if the user has an adblocker or not._
+Description: CanRunAds is a simple repository/script to display a quick and easy method of preventing ad blockers. The simple script allows the webmaster to perform different functions and actions on their website depending on if the user has an adblocker or not.
 
 ## Project Setup
 
