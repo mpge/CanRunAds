@@ -6,12 +6,12 @@ Description: CanRunAds is a simple repository/script to display a quick and easy
 
 _How do I, as a developer, implement this script on my website?_ 
 
-1. _Load the script as you would loading an external javascript file._
-2. _Use javascript (if CanRunAds()) to perform actions based on adblocker status_
+1. Load the script as you would loading an external javascript file.
+2. Use javascript (if CanRunAds()) to perform actions based on adblocker status
 
 ## Example
 
-_You can view the your_file.html for an example of implementation._
+You can view the your_file.html for an example of implementation.
 
 ## License
 
