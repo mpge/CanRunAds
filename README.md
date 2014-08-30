@@ -19,4 +19,4 @@ _The license for this project is [MIT](LICENSE.md)_.
 
 ## Project Page
 
-You can view the Project Page from this repository, (here)[http://matthewgross.github.io/CanRunAds].
+You can view the Project Page from this repository, [here](http://matthewgross.github.io/CanRunAds).
