@@ -23,4 +23,4 @@ You can view the Project Page from this repository, [here](http://matthewgross.g
 
 ## Example
 
-Please see [your_file.html](yourfile.html) for an example.
+Please see [your_file.html](your_file.html) for an example.
